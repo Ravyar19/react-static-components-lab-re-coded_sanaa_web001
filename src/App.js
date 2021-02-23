@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import CatComponent from './'
 
 class App extends Component {
 	render() {
